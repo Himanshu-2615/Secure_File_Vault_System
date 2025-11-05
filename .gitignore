@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+.next/
+out/
+
+# environment variables
+.env
+.env.*
+
+# logs
+*.log
+
+# editor settings
+.vscode/
+.idea/
+
+# misc
+.npmrc
